@@ -1,4 +1,4 @@
-Thanks for downloading my Reshade preset! I hope you enjoy it :D
+
 
 to install it you first wanna install Reshade, select direct x 11 and make sure to check the boxes for these shaders
 
