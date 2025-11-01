@@ -4,8 +4,9 @@ to install it you first wanna install Reshade, select direct x 11 and make sure 
 
 -SweetFx by CeeJay
 -Color Effects by Prod80
+-Gshade by Marot
 
-once these shaders and Reshade is installed you want to either launch the game and press the home button on your keyboard to bring open the menu
+once these shaders and Reshade is installed you want to launch the game and press the home button on your keyboard to bring up the menu
 
 skip the tutorial cuz reading is lame, click the folder icon next to the drop down menu. and then drag the preset into this folder.
 
