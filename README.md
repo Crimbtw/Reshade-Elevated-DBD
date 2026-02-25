@@ -1,19 +1,13 @@
+Before editing your in game settings, make sure your game user settings in the local app data is turned off, so it wont revert back and ruin the preset. you may turn
+it back on after you set your settings. 
 
+Preset is intended to be used while on Gamma 2.2/2.4 otherwise it'll override the adjustments
 
-to install it you first wanna install Reshade, select direct x 11 and make sure to check the boxes for these shaders
+ Anti-Aliasing should also be turned off, use XESS Mode instead and set to preference. I use Balanced
 
--SweetFx by CeeJay
--Color Effects by Prod80
--Gshade by Marot
+drag the lut file in the textures folder on your reshade.
 
-once these shaders and Reshade is installed you want to launch the game and press the home button on your keyboard to bring up the menu
+to find that folder in your egs (where all the reshades are stored) go to the reshade-shaders folder, textures should be here. then replace that base lut with the lut 
+I baked here. Enjoy!
 
-skip the tutorial cuz reading is lame, click the folder icon next to the drop down menu. and then drag the preset into this folder.
-
-or you can go to where your game is currently installed and go to these folders here
-
-\DeadByDaylight\DeadByDaylight\Binaries\EGS
-
-then drag the ini file here
-
-and thats it. 
+Shader repos used: SweetFx by CeeJay -Color Effects by Prod80 -Gshade by Marot
